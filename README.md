@@ -1,2 +1,15 @@
-California Housing Price Prediction Project: PPPP.R with data.csv
-Design and Prototype data analysis for IP Strategy: Data Prepocessing.
+# California Housing Pricing Prediction Project
+
+Input data: data.csv.
+
+Code: PPPP.R.
+
+## Design and Prototype tools for IP Strategy data analysis
+
+Input data:
+
+Code: Data Prepossession:
+
+## 
+
+
